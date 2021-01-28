@@ -2,3 +2,8 @@ body {
     padding: 20px;
     background-color: cadetblue;
 }
+p {
+    padding: 16px;
+    color:brown;
+    font: normal, helvetica, Arial;
+}
